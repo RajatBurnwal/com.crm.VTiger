@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
@@ -15,3 +16,42 @@
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T10:24:32 IST" name="Default suite" finished-at="2024-09-13T10:24:32 IST" duration-ms="134">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T10:24:32 IST" name="Default test" finished-at="2024-09-13T10:24:32 IST" duration-ms="134">
+      <class name="sample.ZChanges">
+        <test-method signature="gitchanges()[pri:0, instance:sample.ZChanges@46cdf8bd]" started-at="2024-09-13T10:24:32 IST" name="gitchanges" finished-at="2024-09-13T10:24:32 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gitchanges -->
+      </class> <!-- sample.ZChanges -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T10:19:01 IST" name="Default suite" finished-at="2024-09-13T10:19:01 IST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T10:19:01 IST" name="Default test" finished-at="2024-09-13T10:19:01 IST" duration-ms="53">
+      <class name="sample.GitPractice">
+        <test-method signature="gitPractice()[pri:0, instance:sample.GitPractice@4b741d6d]" started-at="2024-09-13T10:19:01 IST" name="gitPractice" finished-at="2024-09-13T10:19:01 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gitPractice -->
+      </class> <!-- sample.GitPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+>>>>>>> branch 'master' of https://github.com/RajatBurnwal/com.crm.VTiger.git
+>>>>>>> branch 'master' of https://github.com/RajatBurnwal/com.crm.VTiger.git

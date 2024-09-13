@@ -20,6 +20,7 @@ public class BaseClass {
 	public SeleniumUtility sUtil=new SeleniumUtility();
 	public ExcelUtility eUtil=new ExcelUtility();
 	
+	
 	@BeforeSuite
 	public void dbConnection()
 	{
