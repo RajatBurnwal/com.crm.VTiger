@@ -15,7 +15,12 @@ public class GitPractice {
 		
 		System.out.println("Rajat");
 		
+
 		System.out.println("zahir");
+
+		System.out.println("Nikhil");
+		System.out.println("Its a Weekend, let us goooo");
+
 
 	}
 }
