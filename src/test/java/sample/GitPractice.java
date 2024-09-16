@@ -8,6 +8,20 @@ public class GitPractice {
 	public void gitPractice()
 	{
 		System.out.println("Hi");
+
+		System.out.println("Selenium");
+
 		System.out.println("Hello");
+		
+		System.out.println("Rajat");
+		
+
+		System.out.println("zahir");
+
+		System.out.println("Nikhil");
+		System.out.println("Its a Weekend, let us goooo");
+		System.out.println("Pull");
+
+
 	}
 }
