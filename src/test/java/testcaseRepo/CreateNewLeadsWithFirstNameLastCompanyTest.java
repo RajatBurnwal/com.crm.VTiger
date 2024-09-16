@@ -31,5 +31,6 @@ public class CreateNewLeadsWithFirstNameLastCompanyTest extends BaseClass {
 	public void practiceTest()
 	{
 		System.out.println("Practice Test Script Executed");
+		System.out.println("Checking jenkins");
 	}
 }
